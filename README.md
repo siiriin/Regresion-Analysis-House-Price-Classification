@@ -1,7 +1,7 @@
 # Regresion Analysis House Price Classification
 
 
-Kode pada github ini diambil dari kaggel, dengan pemilik : 
+Data dan kode yang digunakan diambil dari Project Publik di Platform Kaggel, dengan pemilik : 
 - Author      : Fauzan Afif Lutfiansah
 - Link Kaggel : https://www.kaggle.com/code/fauzanafiflutfiansah/uas-regresion-analysis-house-price-clasifikasion
 
